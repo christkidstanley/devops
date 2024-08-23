@@ -1,0 +1,27 @@
+body{
+
+    background-color:dimgrey;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-weight: bold;
+    color:lightblue;
+}
+
+#head{
+    border: 2px solid none;
+    padding-left: 200px;
+    background-color:white;
+    border-radius: 20px;
+    color: black;
+    
+    display:inline-table;
+    justify-content:center;
+}
+
+
+#login{
+    margin-top:145px;
+    margin-left: 534px;
+    font-weight: bold;
+    color:rgb(7, 7, 7);
+   
+}
